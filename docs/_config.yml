@@ -23,7 +23,8 @@ email: "vinals@umn.edu"
 description: >- # this means to ignore newlines until "baseurl:"
   Non equilibrium phenomena, non linear dynamics, and topology in
   Soft Matter, Materials Science, and Biomechanics
-baseurl: "/www2/" # the subpath of your site, e.g. /blog
+domain: vinals.github.io
+baseurl: "/www2" # the subpath of your site, e.g. /blog
 url: "https://vinals.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
